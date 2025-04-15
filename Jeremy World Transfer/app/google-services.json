@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205023899913",
+    "firebase_url": "https://jeremy-world-transfer.firebaseio.com",
+    "project_id": "jeremy-world-transfer",
+    "storage_bucket": "jeremy-world-transfer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205023899913:android:4340e73231b5ae3dc823d8",
+        "android_client_info": {
+          "package_name": "com.fyp.jeremyworldtransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205023899913-dbagvsb65lm5cbp2gbkjl2d7bu9tg925.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6zN8tNb2JP1vQOpyl4-EEfx7lLgyjEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205023899913-dbagvsb65lm5cbp2gbkjl2d7bu9tg925.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
